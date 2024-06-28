@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<h4 align="left">- 🏫 I am currently in my third year at HaUI <br>- 📫 Feel free to contact me at: duyanh.dinh171@gmail.com</h4>
+<h4 align="left">- 🏫 I am currently in my third year at HaUI <br></h4>
+  - 📫 Feel free to contact me at: duyanh.dinh171@gmail.com
 
 ###
 
@@ -47,9 +48,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href ="https://www.facebook.com/d.anhh.171/" target = "blank" /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href ="https://www.linkedin.com/in/dinh-duy-anh-9536422a4/" target = "blank" /><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
