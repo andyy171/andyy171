@@ -26,9 +26,8 @@
          width="52" height="40" alt="linkedin logo"  />
   </a>
 </p>
----
-<!-- Pixel City Night Panorama -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/35a050d5-710d-4a92-bbee-100accdaa98d" 
-       alt="Pixel City Night" width="100%" height="10%"/>
+        width="100%" height="10px"/>
 </p>
