@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="Typical%20day%20as%20a%20software%20developer_%20-%20GIF.gif" alt="Typical Day as a Software Developer" width="400"/>
+  <img src="[Typical%20day%20as%20a%20software%20developer_%20-%20GIF.gif](https://github.com/user-attachments/assets/17521bbc-e79f-4026-a27d-bf4737db03ea)" alt="Typical Day as a Software Developer" width="400"/>
 </p>
 
 ###
