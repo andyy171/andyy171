@@ -29,5 +29,5 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/35a050d5-710d-4a92-bbee-100accdaa98d" 
-        width="100%" height="40px"/>
+        width="100%" height="120px"/>
 </p>
