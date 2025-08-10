@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Cloud GIF" width="400"/>
+  <img src="Typical%20day%20as%20a%20software%20developer_%20-%20GIF.gif" alt="Typical Day as a Software Developer" width="400"/>
 </p>
 
 ###
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duyocd&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyocd&theme=default&layout=compact&langs_count=8&hide_border=false"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duyanhdinh03&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanhdinh03&theme=default&layout=compact&langs_count=8&hide_border=false"/>
 </div>
 
 <br/>
@@ -30,5 +30,5 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Pixel Animation" width="100%"/>
+  <img src="https://images.alphacoders.com/133/1330401.png" alt="Pixel City Night" width="100%"/>
 </p>
