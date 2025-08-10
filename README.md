@@ -8,13 +8,15 @@
   <img src="https://github.com/user-attachments/assets/17521bbc-e79f-4026-a27d-bf4737db03ea" 
        alt="Typical Day as a Software Developer" width="400"/>
 </p>
----
+--------------------------
+
 ### 
 <div align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=duyanhdinh03&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanhdinh03&theme=tokyonight&layout=compact&langs_count=8&hide_border=false"/>
 </div>
----
+-------------------------
+
 ### 📫 Connect with me
 <p align="center">
   <a href="https://www.facebook.com/d.anhh.171/" target="_blank">
