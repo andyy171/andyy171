@@ -11,8 +11,8 @@
 
 ### 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=duyanhdinh03&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanhdinh03&theme=tokyonight&layout=compact&langs_count=8&hide_border=false"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=andyy171&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyy171&theme=tokyonight&layout=compact&langs_count=8&hide_border=false"/>
 </div>
 
 ### 📫 Connect with me
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-//<p align="center">
-//  <img src="https://github.com/user-attachments/assets/35a050d5-710d-4a92-bbee-100accdaa98d" 
-//        width="100%" height="150px"/>
-//</p>
+/*<p align="center">
+  <img src="https://github.com/user-attachments/assets/35a050d5-710d-4a92-bbee-100accdaa98d" 
+        width="100%" height="150px"/>
+</p> */
