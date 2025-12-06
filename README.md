@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" 
          width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/dinh-duy-anh-9536422a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/dad171/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
          width="52" height="40" alt="linkedin logo"  />
   </a>
